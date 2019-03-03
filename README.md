@@ -7,4 +7,6 @@
 
 - Headings contains 6 levels not more than six.
 
+* Headings contains 6 levels not more than six.
+
 
